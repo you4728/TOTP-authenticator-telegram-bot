@@ -1,4 +1,4 @@
-name = "hotp-authenticator-bot"
+name = "2fa-bot"
 main = "src/index.js"
 compatibility_date = "2023-10-16"
 
